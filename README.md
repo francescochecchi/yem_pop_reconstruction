@@ -1,4 +1,4 @@
-### Reconstructing subdistrict-level population denominators in Yemen after six years of armed conflict and forced displacement
+## Reconstructing subdistrict-level population denominators in Yemen after six years of armed conflict and forced displacement
 ### Explanation of R scripts and input datasets
 -----------------------
 
